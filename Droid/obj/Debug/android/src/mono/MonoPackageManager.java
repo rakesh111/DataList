@@ -70,6 +70,7 @@ class MonoPackageManager_Resources {
 		"DataList.Droid.dll",
 		"DataList.dll",
 		"FormsViewGroup.dll",
+		"Parse.dll",
 		"Xamarin.Android.Support.v4.dll",
 		"Xamarin.Forms.Core.dll",
 		"Xamarin.Forms.Platform.Android.dll",

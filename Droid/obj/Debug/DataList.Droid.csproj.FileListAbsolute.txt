@@ -48,3 +48,5 @@ C:\Users\USER\Desktop\DataList\Droid\obj\Debug\res\drawable-xhdpi\icon.png
 C:\Users\USER\Desktop\DataList\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
 C:\Users\USER\Desktop\DataList\Droid\obj\Debug\R.cs.flag
 C:\Users\USER\Desktop\DataList\Droid\obj\Debug\uploadflags.txt
+C:\Users\USER\Desktop\DataList\Droid\bin\Debug\Parse.dll
+C:\Users\USER\Desktop\DataList\Droid\bin\Debug\Parse.xml

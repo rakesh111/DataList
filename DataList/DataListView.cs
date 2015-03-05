@@ -20,10 +20,14 @@ namespace DataList
 					if(this.LoadCommand != null && this.LoadCommand.CanExecute(null))
 					{
 						this.LoadCommand.Execute(null);
+                        
 					}
 				}
 			};
 		}
+
+        
 	}
+    
 }
 

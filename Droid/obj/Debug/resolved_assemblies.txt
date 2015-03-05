@@ -1,6 +1,7 @@
 C:\Users\USER\Desktop\DataList\Droid\bin\Debug\DataList.Droid.dll
 C:\Users\USER\Desktop\DataList\DataList\bin\Debug\DataList.dll
 C:\Users\USER\Desktop\DataList\packages\Xamarin.Forms.1.3.5.6335\lib\MonoAndroid10\FormsViewGroup.dll
+C:\Users\USER\Desktop\DataList\packages\Parse.Xamarin.SDK.1.3.2\lib\portable-windows8+net45\Parse.dll
 C:\Users\USER\Desktop\DataList\packages\Xamarin.Android.Support.v4.21.0.3.0\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll
 C:\Users\USER\Desktop\DataList\packages\Xamarin.Forms.1.3.5.6335\lib\MonoAndroid10\Xamarin.Forms.Core.dll
 C:\Users\USER\Desktop\DataList\packages\Xamarin.Forms.1.3.5.6335\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll

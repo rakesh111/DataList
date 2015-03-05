@@ -2,6 +2,8 @@
 
 using Xamarin.Forms;
 
+
+
 namespace DataList
 {
 	public class App : Application

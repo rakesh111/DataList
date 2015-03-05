@@ -17,3 +17,4 @@ C:\Users\USER\Desktop\DataList\DataList\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\USER\Desktop\DataList\DataList\obj\Debug\MyPage.xaml.g.cs
 C:\Users\USER\Desktop\DataList\DataList\obj\Debug\DataList.dll
 C:\Users\USER\Desktop\DataList\DataList\obj\Debug\DataList.pdb
+C:\Users\USER\Desktop\DataList\DataList\obj\Debug\DataList.csprojResolveAssemblyReference.cache

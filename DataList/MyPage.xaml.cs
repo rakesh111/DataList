@@ -5,6 +5,7 @@ using System.Windows.Input;
 using Xamarin.Forms;
 using System.Collections;
 
+
 namespace DataList
 {
 	public partial class MyPage : ContentPage
@@ -21,6 +22,7 @@ namespace DataList
 			var items = this.BindingContext as IList;
 			if (items != null && e.Item == items [items.Count - 1]) {
 				this._viewModel.Load ();
+                
 			}
 
 		}
