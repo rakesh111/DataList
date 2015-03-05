@@ -23,7 +23,9 @@ namespace DataList
 			if (items != null && e.Item == items [items.Count - 1]) {
 				this._viewModel.Load ();
                 
+                
 			}
+            
 
 		}
 	}
