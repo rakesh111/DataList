@@ -18,8 +18,9 @@ namespace DataList.Droid
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
+			ParseClient.Initialize("s2Qe5plZ2vpM3ET0OlvXmDLOqQ5PZDijjbCLcQwW","F3K7lRSQU72KigmQ2iXm5uVJ7c7X01AIF1bLbReF");
 
-			async MakePost();
+			async MakePost ();
 			ParseObject itemList = new ParseObject("ItemList");
 			itemList["ItemName"] = "Bat";
 			itemList["ItemSize"] = "Big";
