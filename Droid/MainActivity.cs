@@ -7,6 +7,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Parse;
 
 
 namespace DataList.Droid
@@ -17,6 +18,13 @@ namespace DataList.Droid
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
+
+			async MakePost();
+			ParseObject itemList = new ParseObject("ItemList");
+			itemList["ItemName"] = "Bat";
+			itemList["ItemSize"] = "Big";
+			await itemList.SaveAsync();
+
 
 			global::Xamarin.Forms.Forms.Init (this, bundle);
 

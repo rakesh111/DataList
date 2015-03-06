@@ -18,3 +18,13 @@ C:\Users\USER\Desktop\DataList\DataList\obj\Debug\MyPage.xaml.g.cs
 C:\Users\USER\Desktop\DataList\DataList\obj\Debug\DataList.dll
 C:\Users\USER\Desktop\DataList\DataList\obj\Debug\DataList.pdb
 C:\Users\USER\Desktop\DataList\DataList\obj\Debug\DataList.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Projects\rakesh111\DataList.git\DataList\bin\Debug\DataList.dll
+C:\Users\USER\Documents\Projects\rakesh111\DataList.git\DataList\bin\Debug\DataList.pdb
+C:\Users\USER\Documents\Projects\rakesh111\DataList.git\DataList\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\USER\Documents\Projects\rakesh111\DataList.git\DataList\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\USER\Documents\Projects\rakesh111\DataList.git\DataList\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\USER\Documents\Projects\rakesh111\DataList.git\DataList\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\USER\Documents\Projects\rakesh111\DataList.git\DataList\obj\Debug\DataList.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Projects\rakesh111\DataList.git\DataList\obj\Debug\MyPage.xaml.g.cs
+C:\Users\USER\Documents\Projects\rakesh111\DataList.git\DataList\obj\Debug\DataList.dll
+C:\Users\USER\Documents\Projects\rakesh111\DataList.git\DataList\obj\Debug\DataList.pdb
