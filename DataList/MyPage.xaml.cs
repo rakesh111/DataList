@@ -7,10 +7,12 @@ using System.Collections;
 
 
 
+
 namespace DataList
 {
 	public partial class MyPage : ContentPage
 	{
+
 		private ViewModel _viewModel = new ViewModel ();
 		public MyPage ()
 		{
@@ -26,9 +28,11 @@ namespace DataList
                 
                 
 			}
+
             
 
 		}
+
 	}
 }
 
